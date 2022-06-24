@@ -1,0 +1,14 @@
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\bin\Debug\Kalkulat.exe.config
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\bin\Debug\Kalkulat.exe
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\bin\Debug\Kalkulat.pdb
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.csproj.AssemblyReference.cache
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.csproj.SuggestedBindingRedirects.cache
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.Properties.Resources.resources
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.csproj.GenerateResource.cache
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.csproj.CoreCompileInputs.cache
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.exe
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.pdb
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.Калькулятор.resources
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\bin\Debug\ru\Kalkulat.resources.dll
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\Kalkulat.Калькулятор.ru.resources
+C:\Users\KodyF\OneDrive\Документы\Новая папка\Kalkulat\Kalkulat\obj\Debug\ru\Kalkulat.resources.dll
